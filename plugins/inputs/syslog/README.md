@@ -72,7 +72,7 @@ The `trailer` option only applies when `framing` option is `"non-transparent"`. 
 
 #### Best effort
 
-The [`best_effort`](https://github.com/influxdata/go-syslog#best-effort-mode)
+The [`best_effort`](https://github.com/co-jo/go-syslog#best-effort-mode)
 option instructs the parser to extract partial but valid info from syslog
 messages. If unset only full messages will be collected.
 

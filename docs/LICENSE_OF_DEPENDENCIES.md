@@ -59,7 +59,7 @@ following works:
 - github.com/hashicorp/go-cleanhttp [Mozilla Public License 2.0](https://github.com/hashicorp/go-cleanhttp/blob/master/LICENSE)
 - github.com/hashicorp/go-rootcerts [Mozilla Public License 2.0](https://github.com/hashicorp/go-rootcerts/blob/master/LICENSE)
 - github.com/hashicorp/serf [Mozilla Public License 2.0](https://github.com/hashicorp/serf/blob/master/LICENSE)
-- github.com/influxdata/go-syslog [MIT License](https://github.com/influxdata/go-syslog/blob/develop/LICENSE)
+- github.com/co-jo/go-syslog [MIT License](https://github.com/co-jo/go-syslog/blob/develop/LICENSE)
 - github.com/influxdata/tail [MIT License](https://github.com/influxdata/tail/blob/master/LICENSE.txt)
 - github.com/influxdata/toml [MIT License](https://github.com/influxdata/toml/blob/master/LICENSE)
 - github.com/influxdata/wlog [MIT License](https://github.com/influxdata/wlog/blob/master/LICENSE)

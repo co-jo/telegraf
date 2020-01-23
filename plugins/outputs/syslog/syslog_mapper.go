@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/influxdata/go-syslog/v2/rfc5424"
+	"github.com/co-jo/go-syslog/v2/rfc5424"
 	"github.com/influxdata/telegraf"
 )
 
